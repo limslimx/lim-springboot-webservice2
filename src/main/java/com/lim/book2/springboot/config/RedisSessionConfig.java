@@ -1,4 +1,4 @@
-package com.lim.book2.springboot;
+package com.lim.book2.springboot.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.session.data.redis.config.annotation.web.http.EnableRedisHttpSession;
